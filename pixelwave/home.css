@@ -1466,3 +1466,16 @@
     text-align: center;
   }
 }
+
+/* ----------------- */
+.typed-cursor{
+  display: none;
+}
+
+
+.tool-image{
+  /* box-shadow: 0px 0px 30px 5px lightblue; */
+}
+
+
+
